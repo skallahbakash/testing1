@@ -25,3 +25,6 @@ now corrected
 now testing with pusing to master file
 
 now testing for git pull 
+
+
+git clone testing
