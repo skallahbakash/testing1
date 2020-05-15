@@ -6,3 +6,4 @@ the first commit was success
 
 lets try with new commit
 
+new branch added to branch1
