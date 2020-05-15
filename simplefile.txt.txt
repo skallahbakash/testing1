@@ -13,3 +13,7 @@ do it added frequently
 more and more
 
 do it 
+
+
+now i merged my branch into master piece
+
