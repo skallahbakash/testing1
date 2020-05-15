@@ -19,3 +19,7 @@ now i merged my branch into master piece
 
 testing with gui
 
+now corrected
+
+
+now testing with pusing to master file
